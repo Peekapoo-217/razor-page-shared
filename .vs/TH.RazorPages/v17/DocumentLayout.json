@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Cong Hung\\Documents\\Zalo Received Files\\TH (2).RazorPages\\TH (2).RazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|TH.RazorPages.csproj|c:\\users\\huynh cong hung\\documents\\zalo received files\\th (2).razorpages\\th (2).razorpages\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|TH.RazorPages.csproj|solutionrelative:pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|TH.RazorPages.csproj|c:\\users\\huynh cong hung\\documents\\zalo received files\\th (2).razorpages\\th (2).razorpages\\data\\dbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF42942F-FE24-4EBF-804D-F2776EB1C474}|TH.RazorPages.csproj|solutionrelative:data\\dbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContect.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Cong Hung\\Documents\\Zalo Received Files\\TH (2).RazorPages\\TH (2).RazorPages\\Data\\DbContect.cs",
+              "RelativeDocumentMoniker": "Data\\DbContect.cs",
+              "ToolTip": "C:\\Users\\Huynh Cong Hung\\Documents\\Zalo Received Files\\TH (2).RazorPages\\TH (2).RazorPages\\Data\\DbContect.cs",
+              "RelativeToolTip": "Data\\DbContect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:04:30.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Cong Hung\\Documents\\Zalo Received Files\\TH (2).RazorPages\\TH (2).RazorPages\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Huynh Cong Hung\\Documents\\Zalo Received Files\\TH (2).RazorPages\\TH (2).RazorPages\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:52:14.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

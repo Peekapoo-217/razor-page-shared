@@ -1,0 +1,100 @@
+﻿@page
+@model TH.RazorPages.Pages.Products.EditModel
+@{
+    ViewData["Title"] = "Edit Product";
+}
+
+<h1 class="text-center mb-5">Edit Product</h1>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Edit Product Details</h4>
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <!-- Product Name -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Product.Name" class="form-label"></label>
+                            <input asp-for="Product.Name" class="form-control" />
+                            <span asp-validation-for="Product.Name" class="text-danger"></span>
+                        </div>
+
+                        <!-- Product Description -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Product.Description" class="form-label"></label>
+                            <input asp-for="Product.Description" class="form-control" />
+                            <span asp-validation-for="Product.Description" class="text-danger"></span>
+                        </div>
+
+                        <!-- Product Price -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Product.Price" class="form-label"></label>
+                            <input asp-for="Product.Price" class="form-control" />
+                            <span asp-validation-for="Product.Price" class="text-danger"></span>
+                        </div>
+
+                        <!-- Product Category -->
+                        <div class="form-group mb-3">
+                            <label asp-for="Product.CategoryId" class="form-label"></label>
+                            <select asp-for="Product.CategoryId" class="form-select" asp-items="ViewBag.CategoryId">
+                                <option value="">-- Select Category --</option>
+                            </select>
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                        </div>
+
+                        <!-- Existing Images -->
+                        <div class="form-group mb-3">
+                            <h5>Existing Images</h5>
+                            @if (Model.Product.ImgProducts.Any())
+                            {
+                                <ul class="list-unstyled">
+                                    @foreach (var img in Model.Product.ImgProducts)
+                                    {
+                                        <li class="d-flex align-items-center mb-2">
+                                            <img src="@img.Path" alt="Product Image" class="img-thumbnail me-3" style="max-height: 80px;" />
+                                            <div>
+                                                <input type="checkbox" name="DeleteImageIds" value="@img.Id" />
+                                                <label> Delete</label>
+                                            </div>
+                                        </li>
+                                    }
+                                </ul>
+                            }
+                            else
+                            {
+                                <p>No images available.</p>
+                            }
+                        </div>
+
+                        <!-- Add New Images -->
+                        <div class="form-group mb-3">
+                            <h5>Add New Images</h5>
+                            <input type="file" name="NewImages" class="form-control" multiple />
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary btn-lg">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Back Button -->
+            <div class="mt-4 text-center">
+                <a asp-page="./Index" class="btn btn-outline-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

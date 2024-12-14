@@ -1,0 +1,26 @@
+﻿@page
+@model TH.RazorPages.Pages.CreateUserModel
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<h2>ĐĂNG NHẬP</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Input.Name">Name</label>
+        <input asp-for="Input.Name" class="form-control" />
+        <span asp-validation-for="Input.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.Email">Email</label>
+        <input asp-for="Input.Email" class="form-control" />
+        <span asp-validation-for="Input.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.Password">Password</label>
+        <input asp-for="Input.Password" class="form-control" type="password" />
+        <span asp-validation-for="Input.Password" class="text-danger"></span><br>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

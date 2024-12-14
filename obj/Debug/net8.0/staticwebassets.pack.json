@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TH.RazorPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TH.RazorPages.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\18eb3e48-4db1-4982-9178-d3b2e7c895af.jpg",
+      "PackagePath": "staticwebassets\\images\\18eb3e48-4db1-4982-9178-d3b2e7c895af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\1ffe5b90-ef4b-4543-adee-10099eea77ce.jpg",
+      "PackagePath": "staticwebassets\\images\\1ffe5b90-ef4b-4543-adee-10099eea77ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\3a551969-2c4a-472c-9aa8-7a27fd5f35e2.jpg",
+      "PackagePath": "staticwebassets\\images\\3a551969-2c4a-472c-9aa8-7a27fd5f35e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\5a23fe0c-833d-491e-95a6-10d75f56e1fe.jpg",
+      "PackagePath": "staticwebassets\\images\\5a23fe0c-833d-491e-95a6-10d75f56e1fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\68a5bda1-b2f1-495d-8a8d-6ff1b349f40c.png",
+      "PackagePath": "staticwebassets\\images\\68a5bda1-b2f1-495d-8a8d-6ff1b349f40c.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\94c7e4e5-cad1-41c0-9453-b7238460991a.jpg",
+      "PackagePath": "staticwebassets\\images\\94c7e4e5-cad1-41c0-9453-b7238460991a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\IP15.jpg",
+      "PackagePath": "staticwebassets\\images\\IP15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Macbook_PRO13.jpg",
+      "PackagePath": "staticwebassets\\images\\Macbook_PRO13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Macbook_PRO16.jpg",
+      "PackagePath": "staticwebassets\\images\\Macbook_PRO16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 195731.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 195731.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 201010.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 201010.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 202157.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202157.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 202233.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202233.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 202455.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 202455.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-01 210212.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-01 210212.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-02 103041.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-02 103041.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-04 163053.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-04 163053.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-04 164612.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-04 164612.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\Screenshot 2024-11-14 121105.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-11-14 121105.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\ip14.jpg",
+      "PackagePath": "staticwebassets\\images\\ip14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg",
+      "PackagePath": "staticwebassets\\images\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\z5678643732077_f384df1365caffd98790220096a221ba.jpg",
+      "PackagePath": "staticwebassets\\images\\z5678643732077_f384df1365caffd98790220096a221ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\images\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg",
+      "PackagePath": "staticwebassets\\images\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\uploads\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z5427736475691_28b7b130d63be4e1c3aa1a3195c97dcd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Downloads\\TH (2).RazorPages\\wwwroot\\uploads\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z5982313142407_8f0688b6d03bba761975ed351eb38661.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TH.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TH.RazorPages.props",
+      "PackagePath": "build\\TH.RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TH.RazorPages.props",
+      "PackagePath": "buildMultiTargeting\\TH.RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TH.RazorPages.props",
+      "PackagePath": "buildTransitive\\TH.RazorPages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
